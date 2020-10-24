@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hi there random person on the interweb👋
 
-<!--
-**Nxybi/Nxybi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Robyn, a MtF furry developer on the world wide webbo. I mostly use GitHub for projects and wanna-be projects, so feel free to look around my repo list for that stuffles.
 
-Here are some ideas to get you started:
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U51PG1M)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Current Projects:
+- [Frostbyte](https://frostbyte.space/), a multi-functional furry Discord bot.
+- [A nice portfolio](https://nxybi.me/), because thats what we all need.
+
+### Statistics.
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nxybi&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Nxybi&show_icons=true&theme=tokyonight&hide_rank=true)
+
+Am I out of ideas? Yes. Yes I am.
