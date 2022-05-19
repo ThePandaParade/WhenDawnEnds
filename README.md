@@ -5,10 +5,7 @@ I'm Robyn, a MtF furry developer on the world wide webbo. I mostly use GitHub fo
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U51PG1M)
 
 ### Current Projects:
-- [Frostbyte](https://frostbyte.space/), a multi-functional furry Discord bot.
 - [A nice portfolio](https://nxybi.me/), because thats what we all need.
-- [OpenHiven.py](https://github.com/OpenHiven/openhiven.py/), an API for interaction with [Hiven](https://hiven.io)
-- [NyxOS](https://github.com/Nxybi/NyxOS), a WIP 64-bit OS
 
 ### Statistics.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nxybi&layout=compact&theme=tokyonight)
