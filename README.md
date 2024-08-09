@@ -1,6 +1,6 @@
-## Hi there random person on the interweb👋
+## Hello there person or entity on the internet!
 
-I'm Robyn-Dawn, a developer on the world wide web. I mostly use GitHub for projects and wanna-be projects, so feel free to look around my repo list for that stuff.
+I'm Robyn-Dawn, a hobbyist full-stack engineer currently studying for a degree in Computer Science. Feel free to look around!
 
 ![Pronouns](https://img.shields.io/endpoint?url=https%3A%2F%2Fpronoundb.org%2Fshields%2F01766c32-27b8-736c-aa79-402e28118dd1.json&style=for-the-badge&color=purple)
 
